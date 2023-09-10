@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Apple Watch Series XOX",
+      "price": "$399",
+      "model": "Apple Watch Series 7"
+    },
+    {
+      "id": 2,
+      "name": "Galaxy Watch 4",
+      "price": "$249",
+      "model": "Galaxy Watch 4"
+    },
+    {
+      "id": 3,
+      "name": "Fitbit Versa 3",
+      "price": "$229",
+      "model": "Versa 3"
+    },
+    {
+      "id": 4,
+      "name": "Garmin Forerunner 945",
+      "price": "$599",
+      "model": "Forerunner 945"
+    },
+    {
+      "id": 5,
+      "name": "Fossil Gen 5 Carlyle",
+      "price": "$295",
+      "model": "Gen 5 Carlyle"
+    }
+  ]
+  
